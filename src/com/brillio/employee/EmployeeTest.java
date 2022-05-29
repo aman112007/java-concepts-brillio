@@ -24,6 +24,7 @@ public class EmployeeTest {
 		emp1.printEmployeeDetails();
 		emp3.printEmployeeDetails();
 		System.out.println("------------------------");
+		System.out.println("###################");
 		
 
 	}
